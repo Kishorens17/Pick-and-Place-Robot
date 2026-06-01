@@ -1,0 +1,128 @@
+[0.008s] Invoking command in '/home/kishore/ros2_pick_place_ws/build/arm_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/kishore/ros2_pick_place_ws/src/arm_gazebo -DCMAKE_INSTALL_PREFIX=/home/kishore/ros2_pick_place_ws/install/arm_gazebo
+[0.072s] -- The C compiler identification is GNU 11.4.0
+[0.156s] -- The CXX compiler identification is GNU 11.4.0
+[0.168s] -- Detecting C compiler ABI info
+[0.270s] -- Detecting C compiler ABI info - done
+[0.283s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.283s] -- Detecting C compile features
+[0.284s] -- Detecting C compile features - done
+[0.289s] -- Detecting CXX compiler ABI info
+[0.404s] -- Detecting CXX compiler ABI info - done
+[0.415s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.415s] -- Detecting CXX compile features
+[0.416s] -- Detecting CXX compile features - done
+[0.419s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.634s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.736s] -- Found gazebo_ros: 3.9.0 (/opt/ros/humble/share/gazebo_ros/cmake)
+[0.775s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.778s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.783s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.790s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.800s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.826s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.828s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.915s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.956s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.010s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.021s] -- Looking for pthread.h
+[1.123s] -- Looking for pthread.h - found
+[1.124s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.230s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.232s] -- Found Threads: TRUE  
+[1.318s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.2") 
+[1.320s] -- Checking for module 'bullet>=2.82'
+[1.338s] --   Found bullet, version 3.05
+[1.490s] -- Found fcl: /usr/include (found suitable version "0.7.0", minimum required is "0.5.0") 
+[1.565s] -- Found assimp: /usr/include (found version "5.2.0") 
+[1.590s] -- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+[1.627s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found suitable version "1.74.0", minimum required is "1.40.0") found components: thread system filesystem program_options regex iostreams date_time 
+[1.652s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found version "3.12.4") 
+[1.661s] -- Looking for ignition-math6 -- found version 6.15.1
+[1.674s] -- Searching for dependencies of ignition-math6
+[1.677s] -- Looking for OGRE...
+[1.680s] -- OGRE_PREFIX_WATCH changed.
+[1.685s] -- Checking for module 'OGRE'
+[1.705s] --   Found OGRE, version 1.9.0
+[1.752s] -- Found Ogre Ghadamon (1.9.0)
+[1.760s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[1.773s] -- Looking for OGRE_Paging...
+[1.778s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[1.778s] -- Looking for OGRE_Terrain...
+[1.783s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[1.784s] -- Looking for OGRE_Property...
+[1.788s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[1.788s] -- Looking for OGRE_RTShaderSystem...
+[1.793s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[1.794s] -- Looking for OGRE_Volume...
+[1.798s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[1.798s] -- Looking for OGRE_Overlay...
+[1.803s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[1.911s] -- Looking for ignition-math6 -- found version 6.15.1
+[1.914s] -- Looking for ignition-transport8 -- found version 8.2.1
+[1.915s] -- Searching for dependencies of ignition-transport8
+[1.936s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found suitable version "3.12.4", minimum required is "3") 
+[1.950s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[1.956s] -- Checking for module 'libzmq >= 4'
+[1.974s] --   Found libzmq , version 4.3.4
+[2.017s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[2.025s] -- Checking for module 'uuid'
+[2.042s] --   Found uuid, version 2.37.2
+[2.082s] -- Found UUID: TRUE  
+[2.085s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[2.086s] -- Searching for dependencies of ignition-msgs5
+[2.108s] -- Looking for ignition-math6 -- found version 6.15.1
+[2.115s] -- Checking for module 'tinyxml2'
+[2.131s] --   Found tinyxml2, version 9.0.0
+[2.175s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[2.179s] -- Looking for ignition-common3 -- found version 3.14.0
+[2.180s] -- Searching for dependencies of ignition-common3
+[2.180s] -- Looking for dlfcn.h - found
+[2.182s] -- Looking for libdl - found
+[2.184s] -- Found DL: TRUE  
+[2.199s] -- Found tinyobjloader: /usr/lib/x86_64-linux-gnu/cmake/tinyobjloader/tinyobjloader-config.cmake (found version "2.0.0") 
+[2.200s] -- Searching for <ignition-common3> component [graphics]
+[2.202s] -- Looking for ignition-common3-graphics -- found version 3.14.0
+[2.203s] -- Searching for dependencies of ignition-common3-graphics
+[2.203s] -- Looking for ignition-math6 -- found version 6.15.1
+[2.207s] -- Looking for ignition-fuel_tools4 -- found version 4.4.0
+[2.207s] -- Searching for dependencies of ignition-fuel_tools4
+[2.303s] -- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.81.0")  
+[2.316s] -- Checking for module 'jsoncpp'
+[2.333s] --   Found jsoncpp, version 1.9.5
+[2.376s] -- Found JSONCPP: TRUE  
+[2.384s] -- Checking for module 'libzip'
+[2.400s] --   Found libzip, version 1.7.3
+[2.443s] -- Found ZIP: TRUE  
+[2.444s] -- Looking for ignition-common3 -- found version 3.14.0
+[2.444s] -- Looking for ignition-math6 -- found version 6.15.1
+[2.445s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[2.451s] -- Gazebo version: 11.10
+[2.452s] -- Checking for module 'tbb'
+[2.469s] --   Found tbb, version 2021.5.0
+[2.511s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.616s] -- Added test 'lint_cmake' to check CMake code style
+[2.617s] -- Added test 'xmllint' to check XML markup files
+[2.619s] -- Configuring done
+[2.624s] -- Generating done
+[2.627s] -- Build files have been written to: /home/kishore/ros2_pick_place_ws/build/arm_gazebo
+[2.643s] Invoked command in '/home/kishore/ros2_pick_place_ws/build/arm_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/kishore/ros2_pick_place_ws/src/arm_gazebo -DCMAKE_INSTALL_PREFIX=/home/kishore/ros2_pick_place_ws/install/arm_gazebo
+[2.644s] Invoking command in '/home/kishore/ros2_pick_place_ws/build/arm_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kishore/ros2_pick_place_ws/build/arm_gazebo -- -j12 -l12
+[2.698s] Invoked command in '/home/kishore/ros2_pick_place_ws/build/arm_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kishore/ros2_pick_place_ws/build/arm_gazebo -- -j12 -l12
+[2.700s] Invoking command in '/home/kishore/ros2_pick_place_ws/build/arm_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kishore/ros2_pick_place_ws/build/arm_gazebo
+[2.711s] -- Install configuration: ""
+[2.711s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/ament_index/resource_index/package_run_dependencies/arm_gazebo
+[2.711s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/ament_index/resource_index/parent_prefix_path/arm_gazebo
+[2.712s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/environment/ament_prefix_path.sh
+[2.712s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/environment/ament_prefix_path.dsv
+[2.712s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/environment/path.sh
+[2.712s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/environment/path.dsv
+[2.712s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/local_setup.bash
+[2.713s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/local_setup.sh
+[2.713s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/local_setup.zsh
+[2.713s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/local_setup.dsv
+[2.713s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/package.dsv
+[2.713s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/ament_index/resource_index/packages/arm_gazebo
+[2.713s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/cmake/arm_gazeboConfig.cmake
+[2.713s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/cmake/arm_gazeboConfig-version.cmake
+[2.714s] -- Installing: /home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/package.xml
+[2.716s] Invoked command in '/home/kishore/ros2_pick_place_ws/build/arm_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kishore/ros2_pick_place_ws/build/arm_gazebo

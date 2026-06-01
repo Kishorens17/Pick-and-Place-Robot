@@ -1,0 +1,30 @@
+[0.010s] Invoking command in '/home/kishore/ros2_pick_place_ws/build/robotic_arm_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kishore/ros2_pick_place_ws/build/robotic_arm_sim -- -j12 -l12
+[0.050s] Invoked command in '/home/kishore/ros2_pick_place_ws/build/robotic_arm_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kishore/ros2_pick_place_ws/build/robotic_arm_sim -- -j12 -l12
+[0.051s] Invoking command in '/home/kishore/ros2_pick_place_ws/build/robotic_arm_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kishore/ros2_pick_place_ws/build/robotic_arm_sim
+[0.058s] -- Install configuration: ""
+[0.058s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/urdf
+[0.059s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/urdf/gripper.urdf
+[0.059s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/urdf/arm.urdf
+[0.059s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/launch
+[0.059s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/launch/arm_gazebo.launch.py
+[0.059s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/launch/moveit.launch.py
+[0.059s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/lib/robotic_arm_sim/pick_place_controller.py
+[0.059s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/lib/robotic_arm_sim/gripper_controller.py
+[0.059s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/lib/robotic_arm_sim/gripper_teleop.py
+[0.059s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/lib/robotic_arm_sim/simple_gripper_test.py
+[0.059s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/ament_index/resource_index/package_run_dependencies/robotic_arm_sim
+[0.059s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/ament_index/resource_index/parent_prefix_path/robotic_arm_sim
+[0.060s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/environment/ament_prefix_path.sh
+[0.060s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/environment/ament_prefix_path.dsv
+[0.060s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/environment/path.sh
+[0.060s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/environment/path.dsv
+[0.060s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/local_setup.bash
+[0.060s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/local_setup.sh
+[0.060s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/local_setup.zsh
+[0.060s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/local_setup.dsv
+[0.060s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/package.dsv
+[0.060s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/ament_index/resource_index/packages/robotic_arm_sim
+[0.060s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/cmake/robotic_arm_simConfig.cmake
+[0.060s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/cmake/robotic_arm_simConfig-version.cmake
+[0.060s] -- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/package.xml
+[0.073s] Invoked command in '/home/kishore/ros2_pick_place_ws/build/robotic_arm_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kishore/ros2_pick_place_ws/build/robotic_arm_sim

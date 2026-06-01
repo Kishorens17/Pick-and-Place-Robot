@@ -1,0 +1,4 @@
+Invoking command in '/home/kishore/ros2_pick_place_ws/build/robotic_arm_sim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kishore/ros2_pick_place_ws/build/robotic_arm_sim -- -j12 -l12
+Invoked command in '/home/kishore/ros2_pick_place_ws/build/robotic_arm_sim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kishore/ros2_pick_place_ws/build/robotic_arm_sim -- -j12 -l12
+Invoking command in '/home/kishore/ros2_pick_place_ws/build/robotic_arm_sim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kishore/ros2_pick_place_ws/build/robotic_arm_sim
+Invoked command in '/home/kishore/ros2_pick_place_ws/build/robotic_arm_sim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kishore/ros2_pick_place_ws/build/robotic_arm_sim

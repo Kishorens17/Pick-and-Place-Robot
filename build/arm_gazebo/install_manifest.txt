@@ -1,0 +1,15 @@
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/ament_index/resource_index/package_run_dependencies/arm_gazebo
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/ament_index/resource_index/parent_prefix_path/arm_gazebo
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/environment/ament_prefix_path.sh
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/environment/ament_prefix_path.dsv
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/environment/path.sh
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/environment/path.dsv
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/local_setup.bash
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/local_setup.sh
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/local_setup.zsh
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/local_setup.dsv
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/package.dsv
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/ament_index/resource_index/packages/arm_gazebo
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/cmake/arm_gazeboConfig.cmake
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/cmake/arm_gazeboConfig-version.cmake
+/home/kishore/ros2_pick_place_ws/install/arm_gazebo/share/arm_gazebo/package.xml

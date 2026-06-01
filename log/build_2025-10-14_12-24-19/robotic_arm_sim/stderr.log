@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:54 (file):
+  file INSTALL cannot find
+  "/home/kishore/ros2_pick_place_ws/src/robotic_arm_sim/src/continuous_gripper.py":
+  No such file or directory.
+
+[0m

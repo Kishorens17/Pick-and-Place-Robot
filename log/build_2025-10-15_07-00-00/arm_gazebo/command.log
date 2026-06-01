@@ -1,0 +1,4 @@
+Invoking command in '/home/kishore/ros2_pick_place_ws/build/arm_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kishore/ros2_pick_place_ws/build/arm_gazebo -- -j12 -l12
+Invoked command in '/home/kishore/ros2_pick_place_ws/build/arm_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kishore/ros2_pick_place_ws/build/arm_gazebo -- -j12 -l12
+Invoking command in '/home/kishore/ros2_pick_place_ws/build/arm_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kishore/ros2_pick_place_ws/build/arm_gazebo
+Invoked command in '/home/kishore/ros2_pick_place_ws/build/arm_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kishore/ros2_pick_place_ws/build/arm_gazebo

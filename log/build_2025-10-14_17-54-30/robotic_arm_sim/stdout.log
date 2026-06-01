@@ -1,0 +1,26 @@
+-- Install configuration: ""
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/urdf
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/urdf/gripper.urdf
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/urdf/arm.urdf
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/launch
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/launch/arm_gazebo.launch.py
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/launch/moveit.launch.py
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/lib/robotic_arm_sim/pick_place_controller.py
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/lib/robotic_arm_sim/gripper_controller.py
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/lib/robotic_arm_sim/simple_gripper_test.py
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/lib/robotic_arm_sim/test_gripper_simple.py
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/ament_index/resource_index/package_run_dependencies/robotic_arm_sim
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/ament_index/resource_index/parent_prefix_path/robotic_arm_sim
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/environment/ament_prefix_path.sh
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/environment/path.sh
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/environment/path.dsv
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/local_setup.bash
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/local_setup.sh
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/local_setup.zsh
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/local_setup.dsv
+-- Installing: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/package.dsv
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/ament_index/resource_index/packages/robotic_arm_sim
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/cmake/robotic_arm_simConfig.cmake
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/cmake/robotic_arm_simConfig-version.cmake
+-- Up-to-date: /home/kishore/ros2_pick_place_ws/install/robotic_arm_sim/share/robotic_arm_sim/package.xml
